@@ -4,7 +4,7 @@
     "symbol": "OSAI",
     "name": "OneScreen.AI",
     "decimals": 9,
-    "logoURI": "",
+    "logoURI": "https://raw.githubusercontent.com/onescreenai/osai-token/main/onescreen_logo_box.png",
     "extensions": {
         "website": "https://www.onescreen.ai/"
     }
